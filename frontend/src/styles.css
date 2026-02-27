@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.form textarea {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  min-height: 60px;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.output {
+  margin-top: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.tabs button {
+  margin-right: 8px;
+}
+
+.content {
+  white-space: pre-wrap;
+  margin-top: 15px;
+}

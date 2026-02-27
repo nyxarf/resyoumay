@@ -1,0 +1,12 @@
+{
+  "name": "Rahul Sharma",
+  "education": "B.Tech Computer Science, IIT Delhi",
+  "skills": ["Python", "Machine Learning", "FastAPI", "React"],
+  "projects": [
+    "AI Chatbot using LLMs",
+    "Face Recognition System"
+  ],
+  "experience": "Intern at Infosys as Software Developer",
+  "achievements": "Winner of Smart India Hackathon",
+  "target_role": "Software Engineer"
+}
